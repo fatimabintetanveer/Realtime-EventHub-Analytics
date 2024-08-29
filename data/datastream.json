@@ -1,0 +1,22 @@
+[
+    {"idDrink": "1", "strDrink": "Mojito", "dateModified": "2024-08-29T06:32:00"},
+    {"idDrink": "2", "strDrink": "Margarita", "dateModified": "2024-08-29T06:33:00"},
+    {"idDrink": "3", "strDrink": "Martini", "dateModified": "2024-08-29T06:34:00"},
+    {"idDrink": "4", "strDrink": "Old Fashioned", "dateModified": "2024-08-29T06:35:00"},
+    {"idDrink": "5", "strDrink": "Whiskey Sour", "dateModified": "2024-08-29T06:36:00"},
+    {"idDrink": "6", "strDrink": "Daiquiri", "dateModified": "2024-08-29T06:37:00"},
+    {"idDrink": "7", "strDrink": "Cosmopolitan", "dateModified": "2024-08-29T06:38:00"},
+    {"idDrink": "8", "strDrink": "Gin Tonic", "dateModified": "2024-08-29T06:39:00"},
+    {"idDrink": "9", "strDrink": "Negroni", "dateModified": "2024-08-29T06:40:00"},
+    {"idDrink": "10", "strDrink": "Mai Tai", "dateModified": "2024-08-29T06:41:00"},
+    {"idDrink": "11", "strDrink": "Caipirinha", "dateModified": "2024-08-29T06:42:00"},
+    {"idDrink": "12", "strDrink": "Tom Collins", "dateModified": "2024-08-29T06:43:00"},
+    {"idDrink": "13", "strDrink": "Bloody Mary", "dateModified": "2024-08-29T06:44:00"},
+    {"idDrink": "14", "strDrink": "Manhattan", "dateModified": "2024-08-29T06:45:00"},
+    {"idDrink": "15", "strDrink": "Sidecar", "dateModified": "2024-08-29T06:46:00"},
+    {"idDrink": "16", "strDrink": "Pina Colada", "dateModified": "2024-08-29T06:47:00"},
+    {"idDrink": "17", "strDrink": "Sazerac", "dateModified": "2024-08-29T06:48:00"},
+    {"idDrink": "18", "strDrink": "Mai Tai", "dateModified": "2024-08-29T06:49:00"},
+    {"idDrink": "19", "strDrink": "Aviation", "dateModified": "2024-08-29T06:50:00"},
+    {"idDrink": "20", "strDrink": "Mint Julep", "dateModified": "2024-08-29T06:51:00"}
+]
