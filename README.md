@@ -13,11 +13,23 @@ The architecture integrates key Azure services for efficient data processing. A 
 ## Key Components
 
 - **Data Generation**: A Python producer script simulates real-time data streams and sends data to Azure Event Hubs.
+
 - **Data Ingestion**: Azure Event Hubs acts as the ingestion layer, receiving data from the Python script.
+
+![Data Ingestion](assets/eventhub_instance.png)
+
 - **Data Storage**: The ingested data is stored in Azure Data Lake Storage in Avro format, providing scalable and durable storage.
+
+![Data storage](assets/storage_container.png)
+
 - **Data Processing**: Azure Databricks is used to process the data through:
   - **Batch Processing**: Reads and processes stored data from Azure Data Lake.
+
+  ![Batch Processing](assets/batch_streaming.png)
+
   - **Stream Processing**: Processes real-time data directly from Azure Event Hubs for low-latency analytics.
+
+  ![Realtime Processing](assets/realtime_streaming.png)
 
 ## Key Features
 
